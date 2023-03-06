@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+    /* font-family:'Times New Roman', Times, serif; */
+}
+
+#btn-register {
+    background-color: #4c4c91;
+    color: white;
+    border-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#submitRegister {
+    background-color: #4c4c91;
+    color: white;
+    border-style: none;
+}
+
+input[type=text],
+input[type=password] {
+  width: 100%;
+  border: 1px solid gray;
+  display: inline-block;
+  background: white;
+}
+.container{
+    border: 1px solid gray;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-top: 10px;
+}
+input[type=submit]{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
