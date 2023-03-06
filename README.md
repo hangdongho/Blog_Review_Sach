@@ -1,4 +1,2 @@
 # Registration_Form
-# HTML
-# CSS
-# JavaScript
+ HTML,CSS, JavaScript
